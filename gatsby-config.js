@@ -17,6 +17,7 @@ module.exports = {
     `gatsby-plugin-anchor-links`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-material-ui`,
+    "gatsby-plugin-react-leaflet",
     {
       resolve: `gatsby-source-contentful`,
       options: {
