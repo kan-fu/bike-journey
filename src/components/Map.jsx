@@ -87,8 +87,8 @@ const Map = ({ lat, lon, zoom, data, weight }) => {
       scrollWheelZoom={false}
       zoomControl={false}
       doubleClickZoom
-      tap={!L.Browser.mobile}
-      dragging={!L.Browser.mobile}
+      tap={!L?.Browser?.mobile}
+      dragging={!L?.Browser?.mobile}
       style={{ width: "100%", height: "100%", minHeight: "300px" }}
     >
       <TileLayer
