@@ -1,12 +1,11 @@
 ####################### Banner #########################
 style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
-title : "Hugo Story"
-subtitle: |
-  Hugo Story released for free under the <a target="_blank" href="https://creativecommons.org/licenses/by/3.0/">Creative Commons</a>.
+title : "Kan's Cycling Adventure"
 content : |
-  This is a <strong>Banner</strong> element, and it's generally used as an introduction or opening statement. You can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-banner">details</a>).
-button:
-  label : "Get Started"
-  link : "#first"
-image : "images/banner.jpg"
+  I've loved bikes since junior high, when I first started commuting on two wheels. <br /> <br />
+  Over time, I realized that biking is the perfect pace for exploring a city—not as slow as walking, 
+  not as rushed as driving. <br /> <br />
+  So I made myself a promise: to ride every bike trail marked on Google Maps in my neighborhood. <br /> <br />
+  Until now, I'm proud to say, I'm still keeping that promise.
+image : "banner.jpg"
 

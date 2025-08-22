@@ -1,5 +1,5 @@
 <!-- Spotlight -->
-<section class="spotlight {{ .style }}"{{ with .id }} id="{{ . }}"{{ end }}>
+<section class="spotlight {{ .style }}" {{ with .id }} id="{{ . }}" {{ end }}>
     <div class="content">
         {{ with .title }}<h2>{{ . }}</h2>{{ end }}
         {{ with .content }}<p>{{ . | safeHTML }}</p>{{ end }}
@@ -7,7 +7,8 @@
             <li><a href="{{ .link }}" class="button">{{ .label }}</a></li>
         </ul>{{ end }}
     </div>
-    {{ with .image }}<div class="image">
-        <img src="{{ . }}" alt="" />
-    </div>{{ end }}
+    {{ with .map }}
+    <iframe width="100%" height="600px" frameborder="0" allowfullscreen allow="geolocation"
+        src="//umap.openstreetmap.fr/en/map/{{ . }}?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=false&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=false&onLoadPanel=none&captionBar=false&captionMenus=false"></iframe>
+    {{ end }}
 </section>

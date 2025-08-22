@@ -1,9 +1,12 @@
 ####################### Spotlight #########################
 style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
-title : "Spotlight"
+id: "first"
+title : "Champaign, Illinois, U.S."
 content: |
-  This is also a <strong>Spotlight</strong> element, and it's here because this demo would look a bit empty with just one spotlight. Like all spotlights, you can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-spotlight">details</a>).
-button: 
-  label: "Learn More"
-  link: "#"
-image: "images/spotlight02.jpg"
+  Champaign is where I pursued my graduate studies, 
+  and it was also where I first began to appreciate the beauty of nature. 
+  I set myself the goal of traversing every park and main trail in town. 
+  As I gained more experience, I ventured further, biking to neighboring towns and further parks.
+  I tracked each trip with a phone app and later combined all the GPX files into a single Google Earth map using Python. 
+  Seeing the web of routes I had covered light up on the map felt like a true accomplishment.
+map: "champaign_1271081"

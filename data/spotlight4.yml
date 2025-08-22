@@ -1,0 +1,10 @@
+####################### Spotlight #########################
+style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
+title : "Shanghai, China"
+content: |
+  After graduation, I spent four years working in Shanghai, 
+  commuting to work by bike every weekday. 
+  On weekends, cycling became my way to relax and enjoy some fresh air. Among my favorite rides were 
+  the Pudong riverside trail and the 200-km Chongming Island Loop. 
+  I also loved exploring Songjiang District, a wonderful travel destination well within biking distance.
+map: "shanghai_1271086"

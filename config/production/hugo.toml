@@ -2,7 +2,7 @@
 ## Basic Configuration
 ## -----------------------------------------------
 
-title = "Hugo Story"
+title = "Kan's Cycling Adventure"
 copyright = "{year}"
 
 ## -----------------------------------------------
@@ -13,7 +13,7 @@ relativeURLs = "true"
 #canonifyURLs = "true"
 
 # Local
-baseURL = "/"
+baseURL = "https://kan-fu.github.io/"
 publishDir = "public"
 
 # Remote

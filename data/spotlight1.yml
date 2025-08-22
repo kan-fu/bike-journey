@@ -1,10 +1,12 @@
 ####################### Spotlight #########################
 style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
 id: "first"
-title : "Spotlight"
+title : "Kaizhou, Chongqing, China"
 content: |
-  This is a <strong>Spotlight</strong> element, and it's generally used &ndash; as its name implies &ndash; to spotlight a particular feature, subject, or pretty much whatever. You can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-spotlight">details</a>).
-button: 
-  label: "Learn More"
-  link: "#"
-image: "images/spotlight01.jpg"
+  Kaizhou is my hometown, a small town surrounded by mountains. 
+  As a child, climbing them was part of my weekly routine. 
+  Yet I didn’t truly begin exploring my hometown until 2021, when I suddenly had plenty of free time 
+  before going abroad. The steep mountains—some reaching up to 800 meters—were a real challenge for me, 
+  But the harder the climb, the greater the thrill of the ride downhill.
+  Kaizhou is a small town, and I love my hometown.
+map: "kai_1271080"

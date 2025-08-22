@@ -1,10 +1,12 @@
 ####################### Spotlight #########################
 style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
 id: "first"
-title : "Spotlight"
+title : "Chicago, Illinois, U.S."
 content: |
-  And yes, this is another <strong>Spotlight</strong> element, and it's also here because I need to fill a bit of space. Naturally, like any other spotlight, you can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-spotlight">details</a>).
-button: 
-  label: "Learn More"
-  link: "#"
-image: "images/spotlight03.jpg"
+  While searching for new destinations, I discovered the Grand Illinois Trail—a 535-mile loop in northern Illinois, 
+  more than half of it on limestone paths. I took on the challenge in the winter of 2016. 
+  Ambitious as I was, the attempt proved too difficult at the time: 
+  I was unprepared and faced harsh conditions with subzero temperatures and short daylight hours. 
+  I managed to complete only a third of the trail. The following spring, I took the lessons to heart 
+  and opted for a gentler loop closer to the city. Together, those two rides remain among my fondest memories in the U.S.
+map: "chicago_1271087"
